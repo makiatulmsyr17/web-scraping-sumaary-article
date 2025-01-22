@@ -2,7 +2,7 @@
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/Rizukaf-id/RAMIR-data-gathering-demo.git
+    git clone https://github.com/makiatulmsyr17/web-scraping-sumaary-article.git
     ```
 
 2. Install all libraries from `requirements.txt` using pip:
